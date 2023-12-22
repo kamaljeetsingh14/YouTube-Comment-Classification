@@ -1,7 +1,7 @@
 # Objectives
 
 The learning objectives of this project are to:
-1. build a neural network for multilabel classification problem. Given a text, predict whether any of the following emotions are present:
+1. build a neural network for multilabel classification on YouTube comments . Given a text, predict whether any of the following emotions are present:
 
 admiration  
 amusement  

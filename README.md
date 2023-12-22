@@ -5,10 +5,10 @@ The learning objectives of this project are to:
 
 admiration  
 amusement  
-gratitude
-love
-pride
-relief
+gratitude  
+love  
+pride  
+relief  
 remorse
 
 2. practice tuning model hyper-parameters
